@@ -32,11 +32,6 @@
       "src": "https://raw.githubusercontent.com/agricultural-exchange-inc/agx-branding/main/icons/favicon/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/agricultural-exchange-inc/agx-branding/main/icons/favicon/mstile-150x150.png",
-      "sizes": "150x150",
-      "type": "image/png"
     }
   ],
   "theme_color": "#004d46",
